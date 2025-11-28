@@ -20,4 +20,4 @@ assignment
 | top | 실시간 시스템 모니터링 | `-d` (업데이트 간격 지정) |
 | ps | 프로세스 스냅샷 출력 | `aux` (모든 프로세스 상세 정보) |
 
-![top 이미지](desktop/IMG.png)
+![top 이미지](/Users/jiyun/Desktop/IMG.JPG)
